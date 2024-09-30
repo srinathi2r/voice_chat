@@ -1,4 +1,4 @@
-audio_recorder
+audio-recorder-streamlit
 streamlit
 langdetect
 OpenAI
